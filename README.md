@@ -542,8 +542,9 @@ The notebooks are intentionally organised around short, auditable computational 
 
 This repository accompanies the research manuscript on connection–delivery scaling, access–delivery decoupling, metering responsiveness, and structural heterogeneity across Nigerian electricity DISCOs.
 
-**Manuscript:** *[Insert final manuscript title]*
-**Author:** *[Insert author name]*
+**Manuscript Tentative Title:** *ENERGY BILLING INTENSITY AND CUSTOMER-CONNECTION EXPANSION IN A FRONTIER MARKET ECONOMY: A CASE STUDY OF NIGERIA’S ELECTRICITY DISTRIBUTION SECTOR ![Uploading image.png…]()
+*
+**Corresponding Author:** OFFORSON GOLDEN CHIBUEZE
 **Year:** 2026
 
 ---
